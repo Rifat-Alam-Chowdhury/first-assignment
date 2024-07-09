@@ -177,3 +177,142 @@
   
 }
 
+/* inspiration-and-youtube */
+
+
+/* my current plan */
+
+
+.current{
+    text-align: center;
+    
+}
+.current p{
+    padding: 10px;
+}
+.target{
+   
+
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
+.to-display-flex{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.target-img{
+
+    background-color: #fff5f3;
+    height: 200px;
+    border-radius: 20px;
+    padding:30px; 
+    margin: 30px;
+} 
+
+.target-img1{
+
+    background-color: #f2f6ff;
+    height: 200px;
+    border-radius: 20px;
+    padding:30px; 
+    margin: 30px;
+    
+}
+.target-img2{
+
+   background-color: #fffdf1;
+    height: 200px;
+    border-radius: 20px;
+    padding:30px; 
+    margin: 30px;
+    
+}
+
+/* my current plan ends  */
+
+
+/* my next targer starts */
+
+.next-target-img{
+
+    background-color: #ffffff;
+    height: 200px;
+    border-radius: 20px;
+    padding:30px; 
+    margin: 30px;
+    border: 1px solid rgb(164, 10, 10);
+} 
+
+.next-target-img1{
+
+    background-color: #ffffff;
+    height: 200px;
+    border-radius: 20px;
+    padding:30px; 
+    margin: 30px;
+    border: 1px solid rgb(164, 10, 10);
+    
+}
+.next-target-img2{
+
+   background-color: #ffffff;
+    height: 200px;
+    border-radius: 20px;
+    padding:30px; 
+    margin: 30px;
+    border: 1px solid rgb(164, 10, 10);
+    
+}
+
+/* my next target ends  */
+
+
+/* email section  */
+
+.i-need-suppor{
+
+    text-align: center;
+    border: 1px solid rgb(164, 10, 10); 
+   background-image: url(../assets/handshake.jpg); 
+    height: 300px; 
+    border-radius: 20px; 
+    padding: 30px; 
+    margin: 30px; 
+    background-position: center;
+    background-repeat: no-repeat;
+  
+
+
+}
+
+.i-need-suppor h1{
+
+    margin: 10px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+.i-need-suppor p 
+{
+    margin: 10px;
+    padding: 10px;
+    color: rgb(232, 222, 222);
+    font-size: 50px;
+
+}
+
+.i-need-suppor input{
+
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+
+
+}
