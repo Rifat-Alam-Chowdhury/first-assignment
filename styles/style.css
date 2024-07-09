@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+/* nav bar style*/
+
+.navclass{
+
+    margin-top: 38px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+
+}
+
+/* nav bar button download resume design*/
+
+.navbtn{
+
+
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 8px;
+    
+
+}
