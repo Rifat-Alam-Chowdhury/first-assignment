@@ -25,10 +25,14 @@
     background-color: white;
     padding: 10px 10px;
     border-radius: 8px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
     
 
 }
         /* nav bar all ends here  */
+
 
 
         /* body starts here middle part  */
@@ -65,3 +69,83 @@
 
 
 }
+
+        /* contact with me done  */
+
+
+
+
+        /* INNER BODY     */
+
+.outer-ash-background{
+
+    background-color:  #fafafa;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+
+
+
+.why-web-dev{
+
+    text-align: center;
+     padding-top: 100px;
+    /* border: 20px solid black; */
+}
+.why-web-dev p{
+
+    margin-top: 25px;
+
+}
+
+.coding-to-change-the-world{
+ 
+    /* border: 20px solid rebeccapurple; */
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    
+    
+    
+
+ 
+   
+
+}
+
+.text{
+
+    padding-top: 100px;
+    font-size: 30px;
+    font-family: monospace;
+
+
+}
+
+.text p{
+    font-size: medium;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text button{
+
+
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    padding: 20px 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-style: oblique;
+    border-radius: 30px;
+}
+
+.img{
+    padding-top: 100px;
+}
+
+
+
