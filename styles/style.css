@@ -28,3 +28,40 @@
     
 
 }
+        /* nav bar all ends here  */
+
+
+        /* body starts here middle part  */
+
+
+.bodybackgroundimg{
+    background-image: url(../assets/Hero-bg.png);
+    
+}
+
+.body{
+    text-align: center;
+    margin: 100px;
+    padding-top: 30px;
+    font-size: larger;
+}
+
+.descripton{
+    font-size: small;
+    color: #636368;
+    margin: 25px;
+}
+
+.contactbtn{
+
+    
+    background-color: rgb(105, 3, 3);
+    padding:15px 30px;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 15px;
+
+
+
+}
