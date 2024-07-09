@@ -236,7 +236,13 @@
 
 
 /* my next targer starts */
+.nextbtn{
 
+    text-decoration: underline;
+    color: #636368;
+    font-weight: bolder;
+
+}
 .next-target-img{
 
     background-color: #ffffff;
@@ -314,5 +320,21 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
 
+
+}
+
+
+footer{
+    background-color:  #fafafa   ;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    padding: 10px;
+    font-size: small;
+}
+
+footer a{   
+
+    padding: 15px;
 
 }
