@@ -108,12 +108,6 @@
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     
-    
-    
-
- 
-   
-
 }
 
 .text{
@@ -148,4 +142,38 @@
 }
 
 
+
+/* inspiration-and-youtube */
+
+.inspiration-and-youtube{
+
+    margin: 200px;
+    text-align: center;
+ 
+
+}
+
+.my-inspiration {
+
+
+    text-align: center;
+
+}
+.my-inspiration p {
+
+    padding: 20px;
+}
+
+
+
+.youtube-vide iframe{
+
+    padding: 500px;
+    margin: 50px;
+    border-radius: 20px;
+    background-color: rgb(252, 222, 222);
+    padding: 10px;
+   
+  
+}
 
