@@ -326,15 +326,29 @@
 
 footer{
     background-color:  #fafafa   ;
-    display: flex;
-    justify-content: space-around;
     margin-top: 15px;
     padding: 10px;
+    padding-bottom: 50px;
     font-size: small;
+    border-radius: 50px;
+    
 }
 
-footer a{   
 
-    padding: 15px;
+.footterelimenats{
+
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+
+}
+
+
+.links{   
+
+    padding-left: 200px;
+    padding-right: 15px;
+    margin: 20px;
+    
 
 }
